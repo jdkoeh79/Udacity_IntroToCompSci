@@ -1,13 +1,4 @@
-#-------------------------------------------------------------------------------
-# Name:        Udacity - Intro to Comp Sci - Web Crawler
-# Purpose:
-#
-# Author:      Justin Koehler
-#
-# Created:     28/08/2016
-# Copyright:   (c) Justin Koehler 2016
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
+# Final version supplied by:
 # https://github.com/ricco386/Udacity-CS101/blob/master/crawler.py
 
 
